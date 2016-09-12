@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Table View/AppDelegate.swift"
+            timestampString = "494684855.035534"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Table_View.AppDelegate.__deallocating_deinit"
+                  moduleName = "Table View"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/endo/mac_workspace/Table%20View/Table%20View/AppDelegate.swift"
+                  timestampString = "494684855.043505"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Table_View.AppDelegate.init (Table_View.AppDelegate.Type)() -&gt; Table_View.AppDelegate"
+                  moduleName = "Table View"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/endo/mac_workspace/Table%20View/Table%20View/AppDelegate.swift"
+                  timestampString = "494684855.046032"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Table View"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/endo/mac_workspace/Table%20View/Table%20View/AppDelegate.swift"
+                  timestampString = "494684855.046191"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
