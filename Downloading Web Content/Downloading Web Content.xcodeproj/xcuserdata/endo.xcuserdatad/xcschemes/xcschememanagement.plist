@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Download Web Content.xcscheme</key>
+		<key>Downloading Web Content.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>AE8DC9171D87847500FEFB0E</key>
+		<key>C88ED0311B32CA000016E5C6</key>
 		<dict>
 			<key>primary</key>
 			<true/>

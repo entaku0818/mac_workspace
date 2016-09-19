@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Download Web Content
+//  Downloading Web Content
 //
-//  Created by Takuya Endo on 9/13/16.
-//  Copyright © 2016 Takuya Endo. All rights reserved.
+//  Created by Rob Percival on 18/06/2015.
+//  Copyright © 2015 Appfish. All rights reserved.
 //
 
 import UIKit
