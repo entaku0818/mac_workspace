@@ -61,7 +61,7 @@
                                 </constraints>
                                 <state key="normal" title="Whats the weather?"/>
                                 <connections>
-                                    <action selector="findWeatherWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="QGm-vD-oyp"/>
+                                    <action selector="findWeather:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0Z0-O3-ifM"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mh7-Ze-Tm0">
@@ -107,8 +107,8 @@
                     </view>
                     <splitViewMasterSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
                     <connections>
-                        <outlet property="cityTextField" destination="ys2-ai-gYK" id="kT6-Tc-6tt"/>
-                        <outlet property="resultLabel" destination="Mh7-Ze-Tm0" id="sff-fY-Sqp"/>
+                        <outlet property="cityTextField" destination="ys2-ai-gYK" id="gaU-kI-qi3"/>
+                        <outlet property="resultLabel" destination="Mh7-Ze-Tm0" id="t6T-TO-UIg"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
