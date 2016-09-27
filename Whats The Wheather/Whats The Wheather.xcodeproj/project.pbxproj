@@ -37,11 +37,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AE559A041D9A6FF10079C017 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		AEFE14B01D924CC10037C92C = {
 			isa = PBXGroup;
 			children = (
 				AEFE14BB1D924CC10037C92C /* Whats The Wheather */,
 				AEFE14BA1D924CC10037C92C /* Products */,
+				AE559A041D9A6FF10079C017 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -264,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 4YZQY4C47E;
 				INFOPLIST_FILE = "Whats The Wheather/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -277,6 +286,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 4YZQY4C47E;
 				INFOPLIST_FILE = "Whats The Wheather/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
